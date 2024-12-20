@@ -2,6 +2,7 @@
 
 This project aims to analyze user behavior and satisfaction within the telecommunication sector using comprehensive data insights.
 
+![Publishing Time Analysis](https://raw.githubusercontent.com/Ofgeha-Gelana/telco-profitability-study/refs/heads/main/src/output.png)
 ---
 
 ## 📊 **Project Overview**
