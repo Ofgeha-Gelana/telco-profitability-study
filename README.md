@@ -49,6 +49,8 @@ To run the project, ensure the following Python libraries are installed:
 
 ---
 
+![publishing](https://raw.githubusercontent.com/Ofgeha-Gelana/telco-profitability-study/refs/heads/main/src/average%20satisfaction.png)
+
 ## 📈 **How to Use**
 1. Clone this repository.
 2. Install the required dependencies:
