@@ -49,7 +49,7 @@ To run the project, ensure the following Python libraries are installed:
 
 ---
 
-![publishing](https://raw.githubusercontent.com/Ofgeha-Gelana/telco-profitability-study/refs/heads/main/src/average%20satisfaction.png)
+![publishing](https://raw.githubusercontent.com/Ofgeha-Gelana/telco-profitability-study/refs/heads/main/src/dashboard%20image/Screenshot%202024-12-23%20214905.png)
 
 ## 📈 **How to Use**
 1. Clone this repository.
